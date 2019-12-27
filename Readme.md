@@ -2,7 +2,7 @@
 
 This is a short python program, I wrote to generate inspirational quotation images for a project.
 
-The basic idea it to merge an aesthetically pleasing image with a textual image to generate an entirely new and image.
+The basic idea it to merge an aesthetically pleasing image with a textual image to generate an entirely new image.
 
 **Usage**
 
